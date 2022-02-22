@@ -5,7 +5,7 @@
 
 using static System.Console;
 
-string[] Array = { "mazda", "toyota", "vaz", "zaz" };
+string[] Array = { "mazda", "toyota", "vaz", "zaz", "volga", "kia" };
 
 void PrintArray(string[] Array)
 {
